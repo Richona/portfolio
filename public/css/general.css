@@ -1,0 +1,25 @@
+:root {
+    --colorAzul : #2C3E50;
+	--colorVerde : #18BC9C;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body{
+    font-family: 'lato';
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+ul, ol {
+    padding: 0;
+}
